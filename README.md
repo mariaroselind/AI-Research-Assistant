@@ -3,6 +3,7 @@
 A production-grade, local-first Retrieval-Augmented Generation (RAG) platform that allows users to upload complex research papers (PDF, DOCX, TXT), index them semantically, and interview their documents using high-speed open-source LLMs.
 
 ---
+🚀 **[Live Demo Link]((https://ai-research-assistant11.streamlit.app/))**
 
 ## 💡 Key Features
 - **Multi-Format Ingestion:** Dynamic binary processing of PDF, DOCX, and plain text files.
