@@ -5,6 +5,8 @@ A production-grade, local-first Retrieval-Augmented Generation (RAG) platform th
 ---
 🚀 **[Live Demo Link]((https://ai-research-assistant11.streamlit.app/))**
 
+---
+
 ## 💡 Key Features
 - **Multi-Format Ingestion:** Dynamic binary processing of PDF, DOCX, and plain text files.
 - **Semantic Window Segmentation:** Recursive character text splitting with overlapping safety buffers to maintain context.
